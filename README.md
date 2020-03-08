@@ -1,3 +1,3 @@
 # NumberToText
 </h2>Делает число в виде текста.</h2>
-<img src="https://ibb.co/LPWRRsB" alt="">
+<p><img src="https://ibb.co/LPWRRsB" alt="Письма мастера дзен"></p>
