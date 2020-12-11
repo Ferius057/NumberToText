@@ -12,6 +12,9 @@
 # Установка репозитория
 $ git clone https://github.com/Ferius057/NumberToText.git
 
+# Перейти в репозиторий
+$ cd src
+
 # Устоновка прав
 $ chmod +x start.sh
 
